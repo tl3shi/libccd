@@ -1,0 +1,5 @@
+﻿  cubetest.cpp
+d:\github\libccd\build\vsexample\example\cubetest.cpp(21): warning C4244: “初始化”: 从“double”转换到“ccd_real_t”，可能丢失数据
+d:\github\libccd\build\vsexample\example\cubetest.cpp(73): warning C4305: “参数”: 从“double”到“ccd_real_t”截断
+d:\github\libccd\build\vsexample\example\cubetest.cpp(79): warning C4305: “参数”: 从“double”到“ccd_real_t”截断
+  example.vcxproj -> D:\github\libccd\build\vsexample\Debug\example.exe
